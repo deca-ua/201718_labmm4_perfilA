@@ -1,5 +1,5 @@
 <!-- Bootstrap Core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <link href="css/web-fonts-with-css/css/fontawesome-all.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
