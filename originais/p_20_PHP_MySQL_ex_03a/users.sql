@@ -51,8 +51,8 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 -- Data for table `roles`
 -- -----------------------------------------------------
 START TRANSACTION;
-INSERT INTO `roles` (`id_roles`, `roles_descricao`) VALUES (DEFAULT, 'Admnistrador');
-INSERT INTO `roles` (`id_roles`, `roles_descricao`) VALUES (DEFAULT, 'Normal');
+INSERT INTO `roles` (`id_roles`, `roles_descricao`) VALUES (1, 'Administrador');
+INSERT INTO `roles` (`id_roles`, `roles_descricao`) VALUES (2, 'Normal');
 
 COMMIT;
 
